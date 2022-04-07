@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Alice Walker Interview" ] },
+    "summary": { "en": [ "Alice Walker interviewed by Mel Gussow, October 2000" ] },
+    "items": [
+    ]
+}
